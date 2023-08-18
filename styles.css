@@ -1,0 +1,34 @@
+body{
+    background-image: url("./assets/pexels-anni-roenkae-2156881.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+
+nav {
+    background-color: #0dedd6;
+    margin: 0;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    border: 5px solid rgb(48, 14, 14);
+}
+
+nav ul {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 2em;
+}
+
+nav ul li {
+    font-family: 'Shadows Into Light', cursive;
+    margin-right: 3em;
+    list-style: none;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bolder;
+    font-size: 45px;
+}
