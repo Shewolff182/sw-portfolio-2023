@@ -7,13 +7,13 @@ body{
 }
 
 nav {
-    background-color: #0dedd6;
-    /*background-color: rgba(red, green, blue, alpha);*/
+    /*background-color: #0dedd6;*/
+    background-color: rgba(12, 237, 215, 0.5);
     margin: 0;
     height: 150px;
     display: flex;
     align-items: center;
-    border: 5px solid rgb(48, 14, 14);
+    border: 10px solid black;
 }
 
 nav ul {
